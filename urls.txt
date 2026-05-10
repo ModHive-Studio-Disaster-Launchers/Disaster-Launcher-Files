@@ -1,4 +1,4 @@
 CLIENT_URL=https://github.com/ModHive-Studio-Disaster-Launchers-Files/raw/main/game.zip
-SERVER_URL=https://github.com/ModHive-Studio-Disaster-Launchers-Files/raw/main/server.zip
+SERVER_URL=https:https://github.com/ModHive-Studio-Disaster-Launchers/Disaster-Launcher-Files/blob/main/game.zip
 CLIENT_EXE=Sonicexe The Disaster 2D Remake.exe
 SERVER_EXE=BetterServer.exe
