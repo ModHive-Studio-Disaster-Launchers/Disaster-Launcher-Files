@@ -3,3 +3,5 @@ version ???
 -поддержка русского языка была добавлена 
 
 -fast change changelog
+
+-test 2 fast
