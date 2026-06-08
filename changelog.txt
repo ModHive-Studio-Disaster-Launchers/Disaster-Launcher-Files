@@ -1,7 +1,10 @@
-version ???
+\\version~ /110~
 
--поддержка русского языка была добавлена 
-
--fast change changelog
-
--test 2 fast
+-new stable net code
+-public servers for 5 regions 
+-new host panel with more options
+-2 new maps
+-idle and balancing animation
+-better waiting screen
+-round summary
+-several balance changes
