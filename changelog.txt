@@ -8,3 +8,4 @@
 -better waiting screen
 -round summary
 -several balance changes
+-поддержка латиницы
