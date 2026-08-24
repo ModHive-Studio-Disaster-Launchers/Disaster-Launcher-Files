@@ -1,4 +1,4 @@
-\\version~ /110~\n
+\\version~ /110~<
 -new stable net code
 -public servers for 5 regions 
 -new host panel with more options
