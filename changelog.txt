@@ -8,4 +8,4 @@
 -round summary
 -several balance changes
 -поддержка латиницы
--*p~\\a~№l~`e~@t~/t~&e~|s~ *t~e\\s~№t~
+-*p~\\a~№l~`e~@t~/t~&e~|s~ *t~\\e~№s~`t~
