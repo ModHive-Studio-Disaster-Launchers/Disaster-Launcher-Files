@@ -2,4 +2,5 @@ us.mxtappz.net:8606
 servers.mxtappz.net:8606
 fallback.mxtappz.net:8606
 151.244.242.50:8606
+89.22.226.159:8606
 31.40.212.248:8606
